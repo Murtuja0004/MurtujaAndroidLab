@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Murtuja\'s Android Labs</string>
+    <string name="hello_message">Kaisi hai Duniya</string>
+    <string name="button_message">Mai ek button hu</string>
+</resources>

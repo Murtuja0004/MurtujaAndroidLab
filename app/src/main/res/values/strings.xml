@@ -2,6 +2,4 @@
     <string name="app_name">Murtuja\'s Android Labs</string>
     <string name="hello_message">Hello World</string>
     <string name="button_message">I\'m a button</string>
-    <string name="message">Do you like coffee?</string>
-    <string name="hinttext">Write something here</string>
 </resources>
